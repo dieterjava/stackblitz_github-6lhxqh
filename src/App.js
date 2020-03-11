@@ -16,7 +16,7 @@ const dataSourceOptions = {
     'Product_Retail_Price',
     'Product_Current_Inventory'
   ],
-  filter: ['Product_Current_Inventory', '>', 100]
+  filter: ['Product_Current_Inventory', '>', 200]
 };
 
 class App extends React.Component {
